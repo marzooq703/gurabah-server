@@ -6,6 +6,7 @@ const config = require('../../config/config');
 
 const router = express.Router();
 
+// Routes
 const defaultRoutes = [
   {
     path: '/auth',
